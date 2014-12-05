@@ -18,7 +18,7 @@
   // already has an encoding declaration. So if you change the default encoding
   // declaration above, you must change this accordingly. Don't forget to escape
   // character classes as "\s" to "\\s", for example.
-  "encoding_declaration_regex": "^\\s*#\\s*encoding\\s*:\\s*utf-8\\s*$",
+  "encoding_declaration_regex": "^\\s*#\\s*coding\\s*:\\s*utf-8\\s*$",
 
   // Set to True if you want to always add the encoding declaration to matching syntaxes
   // regardless of whether the file has any non-ASCII characters or not
